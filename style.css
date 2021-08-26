@@ -7,7 +7,7 @@
 }
 
 .hero{
-    width: 70%;
+    width: 75%;
     margin: auto;
 }
 .navbar{
@@ -64,7 +64,7 @@ ul li a:hover::after {
 
 .banner{
     display: flex;
-    margin-top: 80px;
+    margin-top: 60px;
 }
 
 .left-col ,.right-col{
@@ -80,7 +80,7 @@ ul li a:hover::after {
     display: flex;
     padding-bottom: 3px;
     border-bottom: 1px solid #ddd;
-    margin: 10px 0 30px;
+    margin: 7px 0 15px;
 }
 
 .seartch-box img {
